@@ -41,16 +41,16 @@ export default function MediaCard() {
           <Container
             style={{
               height: "100%",
-              display: "flex",
               alignItems: "center",
               justifyContent: "center",
             }}
           >
-            <Card sx={{ maxWidth: 345 }}>
+            <h1>Burger King Combo 1</h1>
+            <Card >
               <CardMedia
                 component="img"
-                height="100%"
-                // width="100%"
+                // height="100%"
+                width="100%"
                 image="https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/VNITE20220530043120018151/detail/820383be7c6d4b4ea3ff93f4270e4391_1653885080237208246.webp"
                 alt="green iguana"
               />
