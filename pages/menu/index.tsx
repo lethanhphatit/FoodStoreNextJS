@@ -17,7 +17,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const data = [
   {
-    id: "Burger_King_Combo_1",
+    id: "burger_king_combo_1",
     name: "Burger King Combo 1",
     image:
       "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/VNITE20220530043120018151/detail/820383be7c6d4b4ea3ff93f4270e4391_1653885080237208246.webp",
@@ -25,7 +25,7 @@ const data = [
     relevance: 10000,
   },
   {
-    id: "Cheese_Burger_Sprite",
+    id: "cheese_burger_sprite",
     name: "Cheese Burger + Sprite",
     image:
       "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/VNITE20211108165905265301/detail/f6549438c7374128ba06df0816cb4cee_1636390745778928751.webp",
@@ -33,7 +33,7 @@ const data = [
     relevance: 9999,
   },
   {
-    id: "Burger_King_Combo_2",
+    id: "burger_king_combo_2",
     name: "Burger King Combo 2",
     image:
       "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/VNITE20200825092027650102/detail/399e64e7177941aa995d9c96833274f5_1648659025674487446.webp",
@@ -41,7 +41,7 @@ const data = [
     relevance: 90.46,
   },
   {
-    id: "Burger_King_Combo_3",
+    id: "burger_king_combo_3",
     name: "Burger King Combo 3",
     image:
       "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/VNITE202008250920261120714/detail/9994801aca674455ab73ddbadd9eab95_1648658955734576921.webp",
